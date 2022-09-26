@@ -1,53 +1,13 @@
 
-.your-style {
-    font-family: 'KalamehWeb';
-    font-weight: bold;
-    font-style: normal;
-}
-
-.your-style {
-    font-family: 'KalamehWeb';
-    font-weight: normal;
-    font-style: normal;
-}
-.your-style {
-    font-family: 'KalamehWeb';
-    font-weight: 900;
-    font-style: normal;
-}
-
-.your-style {
-    font-family: 'KalamehWeb';
-    font-weight: bold;
-    font-style: normal;
-}
-
-.your-style {
-    font-family: 'KalamehWeb';
-    font-weight: normal;
-    font-style: normal;
-}
-
-
-.your-style {
-    font-family: 'KalamehWeb';
-    font-weight: 900;
-    font-style: normal;
-}
-.your-style {
-    font-family: 'KalamehWeb';
-    font-weight: 900;
-    font-style: normal;
-}
-
-.your-style {
-    font-family: 'KalamehWeb';
-    font-weight: normal;
-    font-style: normal;
-}
-
-.your-style {
-    font-family: 'KalamehWeb';
-    font-weight: bold;
-    font-style: normal;
+.@font-face {
+  font-family: 'Kalam';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/kalam-v16-latin-regular.eot'); /* IE9 Compat Modes */
+  src: local(''),
+       url('../fonts/kalam-v16-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/kalam-v16-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/kalam-v16-latin-regular.woff') format('woff'), /* Modern Browsers */
+       url('../fonts/kalam-v16-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/kalam-v16-latin-regular.svg#Kalam') format('svg'); /* Legacy iOS */
 }
