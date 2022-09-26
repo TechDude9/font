@@ -11,3 +11,4 @@
        url('../fonts/kalam-v16-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
        url('../fonts/kalam-v16-latin-regular.svg#Kalam') format('svg'); /* Legacy iOS */
 }
+font-family: 'Kalam', cursive;
