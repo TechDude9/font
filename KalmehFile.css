@@ -1,14 +1,59 @@
-
-.@font-face {
-  font-family: 'Kalam';
-  font-style: normal;
-  font-weight: 400;
-  src: url('../fonts/kalam-v16-latin-regular.eot'); /* IE9 Compat Modes */
-  src: local(''),
-       url('../fonts/kalam-v16-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('../fonts/kalam-v16-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
-       url('../fonts/kalam-v16-latin-regular.woff') format('woff'), /* Modern Browsers */
-       url('../fonts/kalam-v16-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
-       url('../fonts/kalam-v16-latin-regular.svg#Kalam') format('svg'); /* Legacy iOS */
-}
-font-family: 'Kalam', cursive;
+@font-face {
+    font-family: Kalemeh;
+    src: url('Kalemeh.eot');
+    src: url('Kalemeh.eot?#iefix') format('embedded-opentype'),
+         url('Kalemeh.woff2') format('woff2'),
+         url('Kalemeh.woff') format('woff'),
+         url('Kalemeh.ttf') format('truetype');
+    font-weight: normal;
+  }
+  
+  @font-face {
+    font-family: Kalemeh;
+    src: url('Kalemeh-Bold.eot');
+    src: url('Kalemeh-Bold.eot?#iefix') format('embedded-opentype'),
+         url('Kalemeh-Bold.woff2') format('woff2'),
+         url('Kalemeh-Bold.woff') format('woff'),
+         url('Kalemeh-Bold.ttf') format('truetype');
+    font-weight: bold;
+  }
+  
+  @font-face {
+    font-family: Kalemeh;
+    src: url('Kalemeh-Thin.eot');
+    src: url('Kalemeh-Thin.eot?#iefix') format('embedded-opentype'),
+         url('Kalemeh-Thin.woff2') format('woff2'),
+         url('Kalemeh-Thin.woff') format('woff'),
+         url('Kalemeh-Thin.ttf') format('truetype');
+    font-weight: 100;
+  }
+  
+  @font-face {
+    font-family: Kalemeh;
+    src: url('Kalemeh-Light.eot');
+    src: url('Kalemeh-Light.eot?#iefix') format('embedded-opentype'),
+         url('Kalemeh-Light.woff2') format('woff2'),
+         url('Kalemeh-Light.woff') format('woff'),
+         url('Kalemeh-Light.ttf') format('truetype');
+    font-weight: 300;
+  }
+  
+  @font-face {
+    font-family: Kalemeh;
+    src: url('Kalemeh-Medium.eot');
+    src: url('Kalemeh-Medium.eot?#iefix') format('embedded-opentype'),
+         url('Kalemeh-Medium.woff2') format('woff2'),
+         url('Kalemeh-Medium.woff') format('woff'),
+         url('Kalemeh-Medium.ttf') format('truetype');
+    font-weight: 500;
+  }
+  
+  @font-face {
+    font-family: Kalemeh;
+    src: url('Kalemeh-Black.eot');
+    src: url('Kalemeh-Black.eot?#iefix') format('embedded-opentype'),
+         url('Kalemeh-Black.woff2') format('woff2'),
+         url('Kalemeh-Black.woff') format('woff'),
+         url('Kalemeh-Black.ttf') format('truetype');
+    font-weight: 900;
+  }
