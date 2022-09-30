@@ -1,59 +1,59 @@
 @font-face {
-    font-family: Kalemeh;
-    src: url('Kalemeh.eot');
-    src: url('Kalemeh.eot?#iefix') format('embedded-opentype'),
-         url('Kalemeh.woff2') format('woff2'),
-         url('Kalemeh.woff') format('woff'),
-         url('Kalemeh.ttf') format('truetype');
+    font-family: KalamehWeb;
+    src: url('KalamehWeb.eot');
+    src: url('KalamehWeb.eot?#iefix') format('embedded-opentype'),
+         url('KalamehWeb.woff2') format('woff2'),
+         url('KalamehWeb.woff') format('woff'),
+         url('KalamehWeb.ttf') format('truetype');
     font-weight: normal;
   }
   
   @font-face {
-    font-family: Kalemeh;
-    src: url('Kalemeh-Bold.eot');
-    src: url('Kalemeh-Bold.eot?#iefix') format('embedded-opentype'),
-         url('Kalemeh-Bold.woff2') format('woff2'),
-         url('Kalemeh-Bold.woff') format('woff'),
-         url('Kalemeh-Bold.ttf') format('truetype');
+    font-family: KalamehWeb;
+    src: url('KalamehWeb-Bold.eot');
+    src: url('KalamehWeb-Bold.eot?#iefix') format('embedded-opentype'),
+         url('KalamehWeb-Bold.woff2') format('woff2'),
+         url('KalamehWeb-Bold.woff') format('woff'),
+         url('KalamehWeb-Bold.ttf') format('truetype');
     font-weight: bold;
   }
   
   @font-face {
-    font-family: Kalemeh;
-    src: url('Kalemeh-Thin.eot');
-    src: url('Kalemeh-Thin.eot?#iefix') format('embedded-opentype'),
-         url('Kalemeh-Thin.woff2') format('woff2'),
-         url('Kalemeh-Thin.woff') format('woff'),
-         url('Kalemeh-Thin.ttf') format('truetype');
+    font-family: KalamehWeb;
+    src: url('KalamehWeb-Thin.eot');
+    src: url('KalamehWeb-Thin.eot?#iefix') format('embedded-opentype'),
+         url('KalamehWeb-Thin.woff2') format('woff2'),
+         url('KalamehWeb-Thin.woff') format('woff'),
+         url('KalamehWeb-Thin.ttf') format('truetype');
     font-weight: 100;
   }
   
   @font-face {
-    font-family: Kalemeh;
-    src: url('Kalemeh-Light.eot');
-    src: url('Kalemeh-Light.eot?#iefix') format('embedded-opentype'),
-         url('Kalemeh-Light.woff2') format('woff2'),
-         url('Kalemeh-Light.woff') format('woff'),
-         url('Kalemeh-Light.ttf') format('truetype');
+    font-family: KalamehWeb;
+    src: url('KalamehWeb-Light.eot');
+    src: url('KalamehWeb-Light.eot?#iefix') format('embedded-opentype'),
+         url('KalamehWeb-Light.woff2') format('woff2'),
+         url('KalamehWeb-Light.woff') format('woff'),
+         url('KalamehWeb-Light.ttf') format('truetype');
     font-weight: 300;
   }
   
   @font-face {
-    font-family: Kalemeh;
-    src: url('Kalemeh-Medium.eot');
-    src: url('Kalemeh-Medium.eot?#iefix') format('embedded-opentype'),
-         url('Kalemeh-Medium.woff2') format('woff2'),
-         url('Kalemeh-Medium.woff') format('woff'),
-         url('Kalemeh-Medium.ttf') format('truetype');
+    font-family: KalamehWeb;
+    src: url('KalamehWeb-Medium.eot');
+    src: url('KalamehWeb-Medium.eot?#iefix') format('embedded-opentype'),
+         url('KalamehWeb-Medium.woff2') format('woff2'),
+         url('KalamehWeb-Medium.woff') format('woff'),
+         url('KalamehWeb-Medium.ttf') format('truetype');
     font-weight: 500;
   }
   
   @font-face {
-    font-family: Kalemeh;
-    src: url('Kalemeh-Black.eot');
-    src: url('Kalemeh-Black.eot?#iefix') format('embedded-opentype'),
-         url('Kalemeh-Black.woff2') format('woff2'),
-         url('Kalemeh-Black.woff') format('woff'),
-         url('Kalemeh-Black.ttf') format('truetype');
+    font-family:KalamehWeb;
+    src: url('KalamehWeb-Black.eot');
+    src: url('KalamehWeb-Black.eot?#iefix') format('embedded-opentype'),
+         url('KalamehWeb-Black.woff2') format('woff2'),
+         url('KalamehWeb-Black.woff') format('woff'),
+         url('KalamehWeb-Black.ttf') format('truetype');
     font-weight: 900;
   }
